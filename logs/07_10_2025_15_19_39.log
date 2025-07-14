@@ -1,2 +1,0 @@
-[ 2025-07-10 15:19:39,570 ] root - INFO - unsupported operand type(s) for +: 'int' and 'str'
-[ 2025-07-10 15:19:39,571 ] root - ERROR - Error occurred in python script: [c:\Users\ASUS\OneDrive\Desktop\newproj\demo.py] at line number [6]: unsupported operand type(s) for +: 'int' and 'str'
