@@ -31,6 +31,7 @@ src/pipline/__init__.py
 src/pipline/prediction_pipeline.py
 src/pipline/training_pipeline.py
 src/utils/__init__.py
+src/utils/from_root.py
 src/utils/main_utils.py
 venv/Lib/__future__.py
 venv/Lib/__phello__.foo.py
