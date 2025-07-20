@@ -38,6 +38,9 @@ jobs:
     needs: Continuous-Integration
     runs-on: self-hosted
     steps:
+      - name: ✅ CD Job Started
+        run: echo "CD job has started successfully 🎉"
+
       - name: Checkout
         uses: actions/checkout@v3
 
